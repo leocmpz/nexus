@@ -1,0 +1,11 @@
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\bin\Debug\net9.0\Nexus.Domain.deps.json
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\bin\Debug\net9.0\Nexus.Domain.dll
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\bin\Debug\net9.0\Nexus.Domain.pdb
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\obj\Debug\net9.0\Nexus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\obj\Debug\net9.0\Nexus.Domain.AssemblyInfoInputs.cache
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\obj\Debug\net9.0\Nexus.Domain.AssemblyInfo.cs
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\obj\Debug\net9.0\Nexus.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\obj\Debug\net9.0\Nexus.Domain.dll
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\obj\Debug\net9.0\refint\Nexus.Domain.dll
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\obj\Debug\net9.0\Nexus.Domain.pdb
+C:\Users\Leonardo Campos\source\repos\Nexus\src\Domain\obj\Debug\net9.0\ref\Nexus.Domain.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Domain", "src\Domain\Nexus.Domain.csproj", "{C6868A59-CF99-D2B1-2D4C-8865DDEA015F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Application", "src\Application\Nexus.Application.csproj", "{272249D9-C74D-A040-4AF3-516D26885DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6868A59-CF99-D2B1-2D4C-8865DDEA015F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6868A59-CF99-D2B1-2D4C-8865DDEA015F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6868A59-CF99-D2B1-2D4C-8865DDEA015F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6868A59-CF99-D2B1-2D4C-8865DDEA015F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272249D9-C74D-A040-4AF3-516D26885DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272249D9-C74D-A040-4AF3-516D26885DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272249D9-C74D-A040-4AF3-516D26885DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272249D9-C74D-A040-4AF3-516D26885DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6CBB97E-A456-4CDF-B038-CE56A5EE86EA}
+	EndGlobalSection
+EndGlobal
